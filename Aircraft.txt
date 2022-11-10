@@ -1,0 +1,3 @@
+MNB Medium narrow body,8,2650,180,8
+LNB Large narrow body,7,5600,220,10
+MWB Medium wide body,5,4050,406,14
